@@ -1,0 +1,10 @@
+.project
+.mxproject
+.cproject
+STM32F722ZETX_RAM.ld
+STM32F722ZETX_FLASH.ld
+I2C Debug.launch
+I2C.ioc
+.settings
+Debug
+
